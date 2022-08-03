@@ -1,0 +1,433 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Chris Toe Furr",
+      "email": "k@k.com",
+      "isStaff": true,
+      "userImg": "https://mario.wiki.gallery/images/0/02/SSBU_Steve.png"
+    },
+    {
+      "id": 2,
+      "fullName": "Jesse Gillenwalter",
+      "email": "b@sic.com",
+      "isStaff": true,
+      "userImg": "https://i.ytimg.com/vi/7B-Lpa6fK0k/maxresdefault.jpg"
+    },
+    {
+      "email": "w@w.com",
+      "fullName": "kal",
+      "isStaff": false,
+      "id": 3,
+      "userImg": "https://lirp.cdn-website.com/21dbc7f5/dms3rep/multi/opt/Mick+Khoury-396w.jpg"
+    },
+    {
+      "email": "corn@gmail.com",
+      "fullName": "kern",
+      "isStaff": false,
+      "id": 4,
+      "userImg": "https://res.cloudinary.com/soundbetter/image/upload/c_fill,f_auto,g_face:auto,h_630,q_90,w_1200/v1638290066/assets/photos/364365/136000-R1-17A_copy.tiff"
+    }
+  ],
+  "areas": [
+    {
+      "id": 1,
+      "name": "Downtown"
+    },
+    {
+      "id": 2,
+      "name": "The Gulch"
+    },
+    {
+      "id": 3,
+      "name": "Germantown"
+    },
+    {
+      "id": 4,
+      "name": "12 South"
+    },
+    {
+      "id": 5,
+      "name": "East Nashville"
+    },
+    {
+      "id": 6,
+      "name": "West Nashville"
+    }
+  ],
+  "accessibilities": [
+    {
+      "id": 1,
+      "name": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Gender Nautral"
+    },
+    {
+      "id": 4,
+      "name": "WheelChair accessible"
+    },
+    {
+      "id": 5,
+      "name": "LGBTQ+"
+    },
+    {
+      "id": 6,
+      "name": "Family"
+    }
+  ],
+  "establishments": [
+    {
+      "id": 1,
+      "name": "Headquarters Beercade",
+      "address": "114 2nd Ave S, Nashville, TN 37201",
+      "areaId": 1,
+      "description": "Beer and Games in a downtown party atmosphere",
+      "img": "https://ediblenashville.ediblecommunities.com/sites/default/files/images/article/headquarters-beercade-nashville.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Acme Feed & Seed",
+      "address": "101 Broadway, Nashville, TN 37201",
+      "areaId": 1,
+      "description": "Located in downtown Nashville",
+      "img": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/acme(1).jpg"
+    },
+    {
+      "id": 3,
+      "name": "L.A. Jackson",
+      "address": "401 11th Ave S, Nashville, TN 37203",
+      "areaId": 2,
+      "description": "Swanky Rooftop Bar Serving high end cocktails",
+      "img": "https://images.squarespace-cdn.com/content/v1/580bcfe7f7e0ab5e0c2a98ae/1604429658183-UR1RGBK80KNOOZDS0ABM/L.A.+Jackson+Indoor+and+Outdoor+Seating"
+    },
+    {
+      "id": 4,
+      "name": "STK Steakhouse",
+      "address": "700 12th Ave S, Nashville, TN 37203",
+      "areaId": 2,
+      "description": "High end steakhouse in the Gulch",
+      "img": "https://stksteakhouse.com/wp-content/uploads/2019/03/LisaDiederichPhotography_STK-13.jpg"
+    },
+    {
+      "id": 5,
+      "name": "O-Ku",
+      "address": "81 Van Buren St, Nashville, TN 37208",
+      "areaId": 3,
+      "description": "Rated Nashvilles #1 Sushi",
+      "img": "https://images.getbento.com/accounts/7646dcfa0cc73f38f6d05812e1b244db/media/images/73301O-Ku_Nashville.jpg?w=1200&fit=crop&auto=compress,format&h=600"
+    },
+    {
+      "id": 6,
+      "name": "The Optimist",
+      "address": "1400 Adams St, Nashville, TN 37208",
+      "areaId": 3,
+      "description": "A hidden gem serving seafood to locals",
+      "img": "https://images.squarespace-cdn.com/content/v1/5e6004e977a0ba5f3b32c232/1592854291057-454MM46F0IZTUXKTJ9Y2/optinash_06.21.20_final_0001.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Frothy Monkey",
+      "address": "2509 12th Ave S, Nashville, TN 37204",
+      "areaId": 4,
+      "description": "For all you wanna be hipsters",
+      "img": "https://frothymonkey.com/wp-content/uploads/2022/02/12South-2021-1-WEB2.png"
+    },
+    {
+      "id": 8,
+      "name": "Burger Up",
+      "address": "2901 12th Ave S, Nashville, TN 37204",
+      "areaId": 4,
+      "description": "burger up or shut up",
+      "img": "http://d2klr1ixr44jla.cloudfront.net/0/0/assets/images/585d98462e7bef9cfc000275.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Tower Market and Deli",
+      "address": "1305 Gallatin Ave, Nashville, TN 37206",
+      "areaId": 5,
+      "description": "Commonly known as my friends favorite deli",
+      "img": "https://10619-2.s.cdn12.com/rests/original/108_507393004.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Five Points Pizza East",
+      "address": "1012 Woodland St, Nashville, TN 37206",
+      "areaId": 5,
+      "description": "Best Pizza In Nash!",
+      "img": "https://www.soundslikenashville.com/wp-content/uploads/2020/01/FB-Five-Points-Pizza-Woodland-Street-Exterior-1579116049.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Red Perch",
+      "address": "4101 Charlotte Ave G120, Nashville, TN 37209",
+      "areaId": 6,
+      "description": "A wonderful blend of Irish and Hawaiian cuisine",
+      "img": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/10/Sylvan-Park-Nashville-2021-2-29-1024x682.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Family Tacos",
+      "address": "4304 Charlotte Ave, Nashville, TN 37209",
+      "areaId": 6,
+      "description": "Its in the name",
+      "img": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/10/Sylvan-Park-Nashville-2021-41-1024x682.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Jason Aldean's",
+      "address": "307 Broadway, Nashville, TN 37201",
+      "areaId": 1,
+      "description": "It's his place, and your's!",
+      "img": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/06/Downtown-SoBro-Nashville-2021-82-1024x683.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Doc Holidays",
+      "address": "112 2nd Ave N, Nashville, TN 37201",
+      "areaId": 1,
+      "description": "Ye What's Up Doc?",
+      "img": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/doc_s-holiday-saloon(1).jpg"
+    },
+    {
+      "id": 15,
+      "name": "Tootsies",
+      "address": "422 Broadway, Nashville, TN 37203",
+      "areaId": 1,
+      "description": "Nashville's oldest bar.",
+      "img": "https://assets3.thrillist.com/v1/image/1117233/1200x630"
+    },
+    {
+      "id": 16,
+      "name": "Otaku Ramen",
+      "address": "1104 Division St, Nashville, TN 37203",
+      "areaId": 2,
+      "description": "for you anime nerds!",
+      "img": "https://www.gannett-cdn.com/-mm-/ebb5dce740e4ca42ee488c14e9269060a49797ab/c=0-192-4828-2920/local/-/media/2016/03/09/Nashville/Nashville/635931415835919192-NAS-RREVOtakuRamen-0313-03.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp"
+    },
+    {
+      "id": 17,
+      "name": "The Pub",
+      "address": "400 11th Ave S, Nashville, TN 37203",
+      "areaId": 2,
+      "description": "Home of the peaky blinders",
+      "img": "https://www.nowplayingnashville.com/wp-content/uploads/sites/www.nowplayingnashville.com/images/2018/03/the-pub-nashville.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Bar Louie",
+      "address": "314 11th Ave S, Nashville, TN 37203",
+      "areaId": 2,
+      "description": "A good spot to not die.",
+      "img": "https://img.ctykit.com/cdn/tn-nashville/images/tr:w-1800/barlouienashvillegulch-2.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Monell's",
+      "address": "1235 6th Ave N, Nashville, TN 37208",
+      "areaId": 3,
+      "description": "Rated Nashville's #1 spot to catch covid",
+      "img": "https://s3-media0.fl.yelpcdn.com/bphoto/ZpYkVY2XfsKU-DZtKzrw6g/348s.jpg"
+    },
+    {
+      "id": 20,
+      "name": "The Goat GermanTown",
+      "address": "1220 2nd Ave N #100, Nashville, TN 37208",
+      "areaId": 3,
+      "description": "It's goated with the sauce",
+      "img": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2018/10/Germantown-18-1024x768.jpg"
+    },
+    {
+      "id": 21,
+      "name": "312 Pizza Company",
+      "address": "371 Monroe St, Nashville, TN 37208",
+      "areaId": 3,
+      "description": "big apple",
+      "img": "https://images.squarespace-cdn.com/content/v1/5aa8319ada02bc26d9336dc1/1522694585079-1RWZH7VCXPFFFROWK3XZ/pizza.jpg?format=1500w"
+    },
+    {
+      "id": 22,
+      "name": "Bartaco",
+      "address": "2526 12th Ave S, Nashville, TN 37204",
+      "areaId": 4,
+      "description": "Not as good as Mas Taco",
+      "img": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2018/10/12-South-Nashville-34.jpg"
+    },
+    {
+      "id": 23,
+      "name": "12 South Taproom",
+      "address": "2318 12th Ave S, Nashville, TN 37204",
+      "areaId": 4,
+      "description": "beer and stuff",
+      "img": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2018/10/12-South-Nashville-34.jpg"
+    },
+    {
+      "id": 24,
+      "name": "MAFIAoZA'S",
+      "address": "2400 12th Ave S, Nashville, TN 37204",
+      "areaId": 4,
+      "description": "Gangsters hide away in Nashville",
+      "img": "https://s3-media0.fl.yelpcdn.com/bphoto/BMqn2Dsp_XPL4a4VQJLfOA/l.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Spicy Boys",
+      "address": "924 Mcferrin Ave, Nashville, TN 37206",
+      "areaId": 5,
+      "description": "a taste of the south... in the south.",
+      "img": "https://www.onlyinyourstate.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-17-at-6.19.15-AM.png"
+    },
+    {
+      "id": 26,
+      "name": "Pharmacy Burger",
+      "address": "731 Mcferrin Ave, Nashville, TN 37206",
+      "areaId": 5,
+      "description": "best spot to play dnd",
+      "img": "https://nashvilleguru.com/officialwebsite/wp-content/uploads/2021/11/East-Nashville-Nashville-2021-65-1024x682.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Mas Taco",
+      "address": "732 Mcferrin Ave, Nashville, TN 37206",
+      "areaId": 5,
+      "description": "Best tacos in Nashville",
+      "img": "https://cdn.vox-cdn.com/thumbor/u8cNKEQiYGFldVT_ypKlxIiPlms=/0x0:1000x750/1200x800/filters:focal(0x0:1000x750)/cdn.vox-cdn.com/uploads/chorus_image/image/49993447/tacos.0.0.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Coco's Italian Market",
+      "address": "411 51st Ave N, Nashville, TN 37209",
+      "areaId": 6,
+      "description": "just like mamma used to make",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/08/f6/84/b7/coco-s-italian-market.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Hugh Baby's",
+      "address": "4816 Charlotte Ave, Nashville, TN 37209",
+      "areaId": 6,
+      "description": "I would like to see da baby.",
+      "img": "https://images.squarespace-cdn.com/content/v1/57c58c3ae3df28187860a4cb/1509566896414-EPT32A2OJ67MQJKE20TK/image-asset.jpeg"
+    },
+    {
+      "id": 30,
+      "name": "Taqueria del sol",
+      "address": "4500 Charlotte Pike, Nashville, TN 37209",
+      "areaId": 6,
+      "description": "who?",
+      "img": "https://wherequ-po-t2.s3-us-west-2.amazonaws.com/us/3/3/74/1/946421842-1587105753.jpg"
+    },
+    {
+      "name": "fizolies",
+      "address": "123 peener ave",
+      "description": "its peen or nothing",
+      "areaId": 3,
+      "img": "https://cdn.winsightmedia.com/platform/files/public/2021-12/background/fazolis%20new-SHUTTERSTOCK%20%281%29.jpg?VersionId=u8kVp.sv5MG8EvvF_BaOX.LiXIgZK7yT",
+      "id": 31
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "review": "iss good mang",
+      "userId": 1,
+      "timeStamp": 1234,
+      "establishmentId": 10
+    },
+    {
+      "review": "",
+      "userId": 1,
+      "establishmentId": 3,
+      "timeStamp": 1659026279200,
+      "id": 3
+    },
+    {
+      "review": "should work",
+      "userId": 1,
+      "establishmentId": 20,
+      "timeStamp": 1659037139884,
+      "id": 5
+    },
+    {
+      "review": "",
+      "userId": 1,
+      "establishmentId": 5,
+      "timeStamp": 1659038031192,
+      "id": 6
+    },
+    {
+      "review": "trees",
+      "userId": 1,
+      "establishmentId": 5,
+      "timeStamp": 1659038034402,
+      "id": 7
+    },
+    {
+      "review": "great toilet folks",
+      "userId": 3,
+      "establishmentId": 5,
+      "timeStamp": 1659038607331,
+      "id": 8
+    },
+    {
+      "review": "wish they had em like this when i was a youngster",
+      "userId": 3,
+      "establishmentId": 5,
+      "timeStamp": 1659038632592,
+      "id": 9
+    },
+    {
+      "review": "creeks",
+      "userId": 1,
+      "establishmentId": 6,
+      "timeStamp": 1659384631937,
+      "id": 10
+    },
+    {
+      "review": "trees and stuuff",
+      "userId": 2,
+      "establishmentId": 3,
+      "timeStamp": 1659384716604,
+      "id": 11
+    },
+    {
+      "review": "kronchy",
+      "userId": 3,
+      "establishmentId": 3,
+      "timeStamp": 1659384754658,
+      "id": 12
+    },
+    {
+      "review": "greats stuff yo",
+      "userId": 1,
+      "establishmentId": 3,
+      "timeStamp": 1659384785629,
+      "id": 13
+    }
+  ],
+  "accessibilityPosts": [
+    {
+      "id": 1,
+      "accessibilityId": 6,
+      "postId": 1
+    },
+    {
+      "accessibilityId": 3,
+      "postId": 11,
+      "id": 3
+    }
+  ],
+  "favoriteEstablishments": [
+    {
+      "userId": 1,
+      "establishmentId": 19,
+      "id": 6
+    }
+  ],
+  "establishmentRequests": []
+}
